@@ -1,0 +1,14 @@
+.custom-card{
+    border: 0;
+}
+.custom-footer{
+    border: 0;
+    background-color: white;
+}
+.categories img{
+    width: 80px;
+}
+.carousel-modifier .carousel-item{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
